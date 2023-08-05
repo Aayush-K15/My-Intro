@@ -77,9 +77,12 @@ img
         }
     .cockpit-pic {
         animation:show 0.25s ease forwards;
-        height: 592;
-        width: 1350;
+        height: 37rem;
+        width: 84.375rem;
     }
-   
-    
+    nav{
+      display:flex;
+      justify-content: space-between;
+      align-items: center;
+    }
     
