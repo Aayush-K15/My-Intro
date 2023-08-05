@@ -80,4 +80,9 @@ img
         height: 592;
         width: 1350;
     }
+    nav{
+      display:flex;
+      justify-content: space-between;
+      align-items: center;
+    }
     
