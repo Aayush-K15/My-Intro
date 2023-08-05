@@ -77,8 +77,8 @@ img
         }
     .cockpit-pic {
         animation:show 0.25s ease forwards;
-        height: 37rem;
-        width: 84.375rem;
+        height: 20rem;
+        width: 30rem;
     }
     nav{
       display:flex;
