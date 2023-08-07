@@ -38,8 +38,8 @@ img
 {
   border:2px solid Tomato;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: center;
+  margin-right:center;
   animation:show 0.2s ease forwards;
   }
   @keyframes show{
